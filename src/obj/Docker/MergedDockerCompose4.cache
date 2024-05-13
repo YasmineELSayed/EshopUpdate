@@ -1,0 +1,28 @@
+name: dockercompose10160106375348883031
+services:
+  catalogdb:
+    container_name: :catalogdb
+    environment:
+      POSTGRES_DB: Catalogdb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_catalog
+        target: C:\Users\a\source\repos\EshopUpdate\src\Catalog.Api\Dockerfile
+        volume: {}
+networks:
+  default:
+    name: dockercompose10160106375348883031_default
+volumes:
+  postgres_catalog:
+    name: dockercompose10160106375348883031_postgres_catalog
