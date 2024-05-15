@@ -3,6 +3,7 @@
 
 namespace Catalog.Api.Products.CreateProduct
 {
+
     public record CreateProductRequest(string Name, List<string> Category, String Description, string ImageFile, decimal Price)
    : ICommand<CreateProductResult>;
     public record CreateProductResponse(Guid Id);

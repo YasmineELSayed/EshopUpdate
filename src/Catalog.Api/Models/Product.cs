@@ -11,6 +11,7 @@
         public String ImageFile { get; set; } = default;
 
         public Decimal Price { get; set; }
+        
 
     }
 }

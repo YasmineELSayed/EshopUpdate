@@ -6,6 +6,12 @@ services:
     environment:
       - "POSTGRES_HOST_AUTH_METHOD=trust"
 
+  catalog.api:
+    image: ${DOCKER_REGISTRY-}catalogapi
+    build:
+      context: .
+      dockerfile: Catalog.Api/Dockerfile
+
 volumes:    
   postgres_catalog:
 

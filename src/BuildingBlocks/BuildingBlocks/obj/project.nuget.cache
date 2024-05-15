@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zX+H5BMs5Bz63jfSo5U0ce976AqOqKR/N4FAJiIv0Xs6tlcVokalUkAshTXh1z0pIrjeg+uSblfJU3lX9Eo2lQ==",
+  "dgSpecHash": "o2UdjGnVcWFPVX/c5X0QimcvcuK11jcoAb+JpaRSOm/U6lPav1d2DWN1z1HnjXXW0rG8YcCUQ+9GXac8Z4MTLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
