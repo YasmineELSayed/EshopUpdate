@@ -3,23 +3,20 @@
 using Microsoft.AspNetCore.Hosting.Server;
 
 namespace Basket.Api.basket.GetBasket;
+ public record GetBasketResponse(ShopCart Cart);
 
-    public class GetBasketEndPoint
-    {
+    public class GetBasketEndpoints : ICarterModule
+       {
+       public void AddRoutes(IEndpointRouteBuilder app)
+       {
+         app.MapGet("/basket/{userName}", async (string userName, ISender sender) =>
+             {
+     
+            var result = await sender.Send(new GetBasketQuery(userName));
 
-        public record GetBasketResponse(ShopCart Cart);
+             var respose = result.Adapt<GetBasketResponse>();
 
-        public class GetBasketEndpoints : ICarterModule
-        {
-            public void AddRoutes(IEndpointRouteBuilder app)
-            {
-                app.MapGet("/basket/{userName}", async (string userName, ISender sender) =>
-                {
-                    var result = await sender.Send(new GetBasketQuery(userName));
-
-                    var respose = result.Adapt<GetBasketResponse>();
-
-                    return Results.Ok(respose);
+               return Results.Ok(respose);
                 })
                 .WithName("GetProductById")
                 .Produces<GetBasketResponse>(StatusCodes.Status200OK)
@@ -28,5 +25,3 @@ namespace Basket.Api.basket.GetBasket;
                 .WithDescription("Get Product By Id");
             }
         }
-    }
-
