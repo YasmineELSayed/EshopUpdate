@@ -60,3 +60,16 @@ C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\zh-Hans\Microsoft.CodeAnalysis
 C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\a\source\repos\EshopUpdate\src\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\a\source\repos\EshopUpdate\src\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Basket.Api.deps.json
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Basket.Api.runtimeconfig.json
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Basket.Api.exe
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Basket.Api.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Scrutor.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\HealthChecks.Redis.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\StackExchange.Redis.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\a\source\repos\EshopUpdate\src\bin\Debug\Basket.Api.pdb
