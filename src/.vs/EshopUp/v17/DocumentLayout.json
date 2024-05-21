@@ -3,43 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\data\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\data\\discountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\data\\cachedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\buildingblocks\\buildingblocks\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\buildingblocks\\buildingblocks\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,6 +73,41 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|solutionrelative:services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -244,6 +276,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -253,7 +289,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -265,59 +301,267 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-09T09:16:29.859Z",
+              "DocumentIndex": 2,
+              "Title": "DiscountContext.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:24:14.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DiscountGrpc.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T08:44:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T08:05:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Program.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Program.cs",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:05:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:16:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T08:05:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Discount.proto",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-05-17T09:06:27.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:03:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Dockerfile",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Dockerfile",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T08:05:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T09:16:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GreetGrpc.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:23:59.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CachedRepository.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:11:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:41:28.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:54:03.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:41:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:37:38.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetBasketEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:08:13.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:22:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreBasketEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:29:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AQIAAJ4BAAAAAAAAAAAmwKgBAAAEAAAA",
+              "ViewState": "AQIAAJ8BAAAAAAAAAAAWwKgBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-05-09T11:04:23.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-09T09:16:07.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-16T11:36:34.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\appsettings.json",
@@ -330,57 +574,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T11:36:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAACBjwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-09T09:16:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAC4AAAAAAAAAAIBZwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-09T09:16:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Program.cs",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Program.cs",
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADMAAAACAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAACBjwDMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T11:07:10.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T09:16:27.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Dockerfile",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Dockerfile",
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Dockerfile",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-16T12:34:37.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBpwAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T11:10:07.833Z"
+              "WhenOpened": "2024-05-15T11:10:07.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Basket.Api.csproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Basket.Api.csproj",
@@ -393,124 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CachedRepository.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAiwCgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T10:11:28.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeleteBasketEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:41:12.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA4AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:54:03.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoggingBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA6wBUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:45:18.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeleteBasketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:41:28.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetBasketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAwAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:37:38.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetBasketEndPoint.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:08:13.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StoreBasketHandler.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:22:30.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StoreBasketEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA6wA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:29:29.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
@@ -523,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Catalog.Api\\Properties\\launchSettings.json",
@@ -531,11 +686,12 @@
               "RelativeToolTip": "Catalog.Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T10:37:35.457Z"
+              "WhenOpened": "2024-05-08T10:37:35.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "globalUsing.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\globalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\globalUsing.cs",
@@ -543,11 +699,12 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\globalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:10:40.051Z"
+              "WhenOpened": "2024-05-15T12:10:40.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "BasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\BasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\BasketRepository.cs",
@@ -555,11 +712,12 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Data\\BasketRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:40:53.495Z"
+              "WhenOpened": "2024-05-16T07:40:53.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "BasketNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Exceptions\\BasketNotFoundException.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Exceptions\\BasketNotFoundException.cs",
@@ -567,11 +725,12 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Exceptions\\BasketNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:57:40.954Z"
+              "WhenOpened": "2024-05-16T07:57:40.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\IBasketRepository.cs",
@@ -579,11 +738,12 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Data\\IBasketRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:36:45.371Z"
+              "WhenOpened": "2024-05-16T07:36:45.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "BuildingBlocks.csproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
@@ -596,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ShopCart.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Models\\ShopCart.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Models\\ShopCart.cs",
@@ -604,11 +764,12 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Api\\Models\\ShopCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:31:44.78Z"
+              "WhenOpened": "2024-05-15T11:31:44.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductById\\GetProductByIdHandler.cs",
@@ -621,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "DeleteProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
@@ -634,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\DeleteProduct\\DeleteProductHandler.cs",
@@ -647,7 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "GetProductByIdEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductById\\GetProductByIdEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductById\\GetProductByIdEndPoint.cs",
@@ -660,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "UpdateProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\UpdateProduct\\UpdateProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\UpdateProduct\\UpdateProductEndPoint.cs",
@@ -673,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -686,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -699,20 +860,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "CreateProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
               "RelativeToolTip": "Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wA4AAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T08:04:56.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "GetProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProducts\\GetProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProducts\\GetProductHandler.cs",
@@ -725,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "GetProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProducts\\GetProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProducts\\GetProductEndPoint.cs",
@@ -738,20 +899,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "Catalog.Api.csproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
               "RelativeDocumentMoniker": "Catalog.Api\\Catalog.Api.csproj",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
               "RelativeToolTip": "Catalog.Api\\Catalog.Api.csproj",
-              "ViewState": "AQIAAAIAAAAAAAAAAABRwAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-08T11:15:57.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "CatalogIntialData.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Data\\CatalogIntialData.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Data\\CatalogIntialData.cs",
@@ -759,35 +920,38 @@
               "RelativeToolTip": "Catalog.Api\\Data\\CatalogIntialData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T06:09:31.342Z"
+              "WhenOpened": "2024-05-15T06:09:31.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Program.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Program.cs",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Program.cs",
               "RelativeToolTip": "Catalog.Api\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAIBZwCwAAAAeAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAOBvwCwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T10:04:49.914Z"
+              "WhenOpened": "2024-05-08T10:04:49.914Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Catalog.Api\\Dockerfile",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Dockerfile",
               "RelativeToolTip": "Catalog.Api\\Dockerfile",
-              "ViewState": "AQIAAAcAAAAAAAAAAIBZwBkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAKBrwBkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-15T09:28:20.221Z"
+              "WhenOpened": "2024-05-15T09:28:20.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "PagentationRequest.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Pagination\\PagentationRequest.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagentationRequest.cs",
@@ -795,23 +959,25 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagentationRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T08:51:34.845Z"
+              "WhenOpened": "2024-05-15T08:51:34.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "PagenatedResult.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
               "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T08:51:57.524Z"
+              "WhenOpened": "2024-05-15T08:51:57.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\GlobalUsing.cs",
@@ -819,11 +985,12 @@
               "RelativeToolTip": "Catalog.Api\\GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:03:53.71Z"
+              "WhenOpened": "2024-05-09T07:03:53.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Catalog.Api\\appsettings.json",
@@ -831,11 +998,12 @@
               "RelativeToolTip": "Catalog.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T10:37:25.433Z"
+              "WhenOpened": "2024-05-08T10:37:25.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 53,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Catalog.Api\\appsettings.Development.json",
@@ -843,11 +1011,12 @@
               "RelativeToolTip": "Catalog.Api\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T10:37:27.522Z"
+              "WhenOpened": "2024-05-08T10:37:27.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "GetProductByCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
@@ -860,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
@@ -868,11 +1037,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwBEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:31:18.274Z"
+              "WhenOpened": "2024-05-14T09:31:18.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 57,
               "Title": "InternalServerException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
@@ -880,11 +1050,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBZwBQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:27:06.484Z"
+              "WhenOpened": "2024-05-14T09:27:06.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 56,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Exceptions\\ProductNotFoundException.cs",
@@ -892,11 +1063,12 @@
               "RelativeToolTip": "Catalog.Api\\Exceptions\\ProductNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:48:38.636Z"
+              "WhenOpened": "2024-05-13T07:48:38.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 58,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
@@ -904,11 +1076,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAowBEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T09:22:13.767Z"
+              "WhenOpened": "2024-05-14T09:22:13.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 60,
               "Title": "MergedDockerCompose17.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose17.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose17.cache",
@@ -916,11 +1089,12 @@
               "RelativeToolTip": "obj\\Docker\\MergedDockerCompose17.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-05-13T13:37:00.222Z"
+              "WhenOpened": "2024-05-13T13:37:00.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 59,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Models\\Product.cs",
@@ -928,11 +1102,12 @@
               "RelativeToolTip": "Catalog.Api\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T11:16:53.779Z"
+              "WhenOpened": "2024-05-08T11:16:53.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 61,
               "Title": "MergedDockerCompose16.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose16.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose16.cache",
@@ -940,11 +1115,12 @@
               "RelativeToolTip": "obj\\Docker\\MergedDockerCompose16.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-05-13T13:36:59.234Z"
+              "WhenOpened": "2024-05-13T13:36:59.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 62,
               "Title": "MergedDockerCompose34.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose34.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose34.cache",
@@ -952,11 +1128,12 @@
               "RelativeToolTip": "obj\\Docker\\MergedDockerCompose34.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-05-13T13:36:56.025Z"
+              "WhenOpened": "2024-05-13T13:36:56.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 63,
               "Title": "MergedDockerCompose33.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose33.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose33.cache",
@@ -964,11 +1141,12 @@
               "RelativeToolTip": "obj\\Docker\\MergedDockerCompose33.cache",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2024-05-13T13:36:50.411Z"
+              "WhenOpened": "2024-05-13T13:36:50.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 64,
               "Title": "GetProductByCategoryEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryEndPoint.cs",
@@ -981,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 65,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -989,11 +1167,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:56:18.659Z"
+              "WhenOpened": "2024-05-08T12:56:18.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 66,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -1001,11 +1180,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAqwA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:04:06.692Z"
+              "WhenOpened": "2024-05-08T13:04:06.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 67,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -1013,11 +1193,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:12:49.117Z"
+              "WhenOpened": "2024-05-08T13:12:49.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 68,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
@@ -1025,7 +1206,8 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T13:00:41.487Z"
+              "WhenOpened": "2024-05-08T13:00:41.487Z",
+              "EditorCaption": ""
             }
           ]
         }
