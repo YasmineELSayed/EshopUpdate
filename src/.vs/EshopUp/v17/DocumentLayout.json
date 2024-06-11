@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\data\\extentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\discountgrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E771E9D8-8EC2-4B69-95F4-09593284D2DC}|Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj|solutionrelative:services\\discount\\discountgrpc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFFC7493-DF50-459A-B9BA-43F4407C3080}|Services\\Basket\\Basket.Api\\Basket.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\basket\\basket.api\\data\\cachedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -315,32 +315,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-09T09:16:07.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-09T09:16:29.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -353,7 +327,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-09T09:16:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T08:05:53.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T08:05:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAFQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-09T09:16:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscountGrpc.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T08:44:47.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -366,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
@@ -379,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Program.cs",
@@ -392,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Dockerfile",
@@ -405,20 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\appsettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
-              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T08:05:25.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DiscountService.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
@@ -431,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Extentions.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\Extentions.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Data\\Extentions.cs",
@@ -444,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
@@ -457,19 +483,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DiscountGrpc.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
-              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
-              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-17T08:44:47.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "DiscountContext.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
@@ -494,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Discount.proto",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Protos\\Discount.proto",
@@ -515,18 +528,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T08:09:50.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T08:05:53.495Z"
             },
             {
               "$type": "Document",
