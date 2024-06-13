@@ -103,19 +103,16 @@ namespace Discount.Grpc {
     [grpc::BindServiceMethod(typeof(DiscountProtoService), "BindService")]
     public abstract partial class DiscountProtoServiceBase
     {
-      /// <summary>
-      /// Discount CRUD Operations
-      /// </summary>
-      /// <param name="request">The request received from the client.</param>
-      /// <param name="context">The context of the server-side call handler being invoked.</param>
-      /// <returns>The response to send back to the client (wrapped by a task).</returns>
-      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
-      public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.CouponModel> GetDiscount(global::Discount.Grpc.GetDiscountRequest request, grpc::ServerCallContext context)
-      {
-        throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
-      }
+            /// <summary>
+            /// Discount CRUD Operations
+            /// </summary>
+            /// <param name="request">The request received from the client.</param>
+            /// <param name="context">The context of the server-side call handler being invoked.</param>
+            /// <returns>The response to send back to the client (wrapped by a task).</returns>
+            [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+            public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.CouponModel> GetDiscount(global::Discount.Grpc.GetDiscountRequest request, grpc::ServerCallContext context) => throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));
 
-      [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
+            [global::System.CodeDom.Compiler.GeneratedCode("grpc_csharp_plugin", null)]
       public virtual global::System.Threading.Tasks.Task<global::Discount.Grpc.CouponModel> CreateDiscount(global::Discount.Grpc.CreateDiscountRequest request, grpc::ServerCallContext context)
       {
         throw new grpc::RpcException(new grpc::Status(grpc::StatusCode.Unimplemented, ""));

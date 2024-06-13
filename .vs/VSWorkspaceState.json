@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\BuildingBlocks",
+    "\\src\\Catalog.Api",
+    "\\src\\obj",
+    "\\src\\Services",
+    "\\src\\Services\\Basket",
+    "\\src\\Services\\Basket\\Basket.Api",
+    "\\src\\Services\\Discount",
+    "\\src\\Services\\Discount\\DiscountGrpc"
   ],
-  "SelectedNode": "\\C:\\Users\\a\\Source\\Repos\\EshopUpdate",
+  "SelectedNode": "\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
   "PreviewInSolutionExplorer": false
 }
