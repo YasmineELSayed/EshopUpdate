@@ -3,6 +3,82 @@
   "WorkspaceRootPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\events\\orderupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\exceptions\\domainexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC08925-1CBB-4245-B406-619889A8F097}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CC08925-1CBB-4245-B406-619889A8F097}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -11,20 +87,12 @@
       "RelativeMoniker": "D:0:0:{E007C400-DDD1-4BF7-A866-970FB6674D76}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CC08925-1CBB-4245-B406-619889A8F097}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CC08925-1CBB-4245-B406-619889A8F097}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{281EF18D-7DA0-453A-8A9A-0071B6DDAF92}|Catalog.Api\\Catalog.Api.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{281EF18D-7DA0-453A-8A9A-0071B6DDAF92}|Catalog.Api\\Catalog.Api.csproj|solutionrelative:catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7FE592FD-C0E3-4A08-B7E3-5D28C9AA3767}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8933480-DE6F-4704-B941-3C5B8635F99B}|docker-compose.dcproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,52 +123,16 @@
       "RelativeMoniker": "D:0:0:{BC1FBE51-1DD2-4F68-93A0-0AA873218709}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\valueofobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\valueofobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D598D606-0900-4D4F-BD3A-F1B69944DCE1}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CC08925-1CBB-4245-B406-619889A8F097}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\a\\source\\repos\\eshopupdate\\src\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -404,7 +436,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -420,162 +452,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Events\\OrderUpdatedEvent.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:14:57.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ordering.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj*",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-13T12:22:27.297Z",
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Events\\OrderCreatedEvent.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:14:37.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderId.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderId.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderId.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderId.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:29:42.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemId.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderItemId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderItemId.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderItemId.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderItemId.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:32:09.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductId.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\ProductId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\ProductId.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\ProductId.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\ProductId.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:30:38.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ordering.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-13T10:28:33.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BuildingBlocks.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-08T12:54:36.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Catalog.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
-              "RelativeDocumentMoniker": "Catalog.Api\\Catalog.Api.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
-              "RelativeToolTip": "Catalog.Api\\Catalog.Api.csproj",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-08T11:15:57.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ordering.API.csproj",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-13T10:29:28.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\GlobalUsings.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T08:57:35.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T09:16:27.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Dockerfile",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T09:01:28.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAwAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T10:35:10.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T10:10:58.538Z",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:21:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderName.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderName.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderName.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderName.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\OrderName.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:26:44.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:39:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:40:58.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T10:11:28.281Z",
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:21:49.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Ordering.API",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-14T09:01:18.162Z",
+              "Title": "CustomerId.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\CustomerId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\CustomerId.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\CustomerId.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\CustomerId.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:25:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DomainExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainExceptions.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainExceptions.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainExceptions.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainExceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:05:20.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:22:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:22:02.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:56:49.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:59:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Enum\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Enum\\OrderStatus.cs",
@@ -588,7 +686,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
+              "Title": "Ordering.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj*",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T12:22:27.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ordering.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T10:28:33.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ordering.API.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T10:29:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Catalog.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "RelativeDocumentMoniker": "Catalog.Api\\Catalog.Api.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Catalog.Api.csproj",
+              "RelativeToolTip": "Catalog.Api\\Catalog.Api.csproj",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T11:15:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BuildingBlocks.csproj",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T12:54:36.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T09:16:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Dockerfile",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T09:01:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:35:10.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T10:10:58.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T10:11:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ordering.API",
+              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T09:01:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
@@ -601,85 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:21:37.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:22:13.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA3wAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:22:02.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Address.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:39:33.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\ValueOfObjects\\Payment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:40:58.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T08:21:49.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Aggregate.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
@@ -692,19 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:56:49.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Iaggregate.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Iaggregate.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Iaggregate.cs",
@@ -716,19 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
-              "ToolTip": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T12:59:20.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
@@ -741,7 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
@@ -753,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
@@ -765,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "StoreBasketEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketEndpoint.cs",
@@ -777,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "LoggingBehavior.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\LoggingBehavior.cs",
@@ -789,7 +927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "GetBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketHandler.cs",
@@ -801,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviors\\ValidationBehavior.cs",
@@ -813,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "StoreBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\StoreBasket\\StoreBasketHandler.cs",
@@ -825,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "CachedRepository.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\CachedRepository.cs",
@@ -837,7 +975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "GetBasketEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\GetBasket\\GetBasketEndPoint.cs",
@@ -849,7 +987,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "DiscountContext.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Data\\DiscountContext.cs",
@@ -861,7 +999,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -873,7 +1011,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
@@ -885,7 +1023,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Program.cs",
@@ -897,7 +1035,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Dockerfile",
@@ -909,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\appsettings.json",
@@ -921,7 +1059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -933,7 +1071,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -945,7 +1083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
@@ -958,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "Basket.Api.csproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Basket.Api.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Basket.Api.csproj",
@@ -971,7 +1109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "DiscountGrpc.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
@@ -983,7 +1121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 53,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Models\\Coupon.cs",
@@ -995,7 +1133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Program.cs",
@@ -1007,7 +1145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "GetProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProducts\\GetProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProducts\\GetProductEndPoint.cs",
@@ -1019,7 +1157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 57,
               "Title": "DiscountGrpc.csproj",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
@@ -1032,7 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 56,
               "Title": "DiscountService.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Services\\DiscountService.cs",
@@ -1044,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 58,
               "Title": "DiscountGrpc.cs",
               "DocumentMoniker": "C:\\Users\\a\\AppData\\Local\\SourceServer\\b03e9ee48bbc7a7b2b033bbabe7548b73b982f86eeaf67defc331db54a809d5c\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b03e9ee48bbc7a7b2b033bbabe7548b73b982f86eeaf67defc331db54a809d5c\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\DiscountGrpc.cs",
@@ -1056,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 60,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Program.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Program.cs",
@@ -1068,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 59,
               "Title": "Extentions.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Data\\Extentions.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Data\\Extentions.cs",
@@ -1080,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 61,
               "Title": "globalUsing.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\globalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\globalUsing.cs",
@@ -1092,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 62,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Properties\\launchSettings.json",
@@ -1104,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 63,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Dockerfile",
@@ -1116,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 64,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\appsettings.json",
@@ -1128,7 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 65,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
@@ -1140,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 66,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Catalog.Api\\appsettings.json",
@@ -1152,7 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 105,
               "Title": "Discount.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\Discount.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\Discount.cs",
@@ -1164,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 106,
               "Title": "20240521080950_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\Migrations\\20240521080950_InitialCreate.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\Migrations\\20240521080950_InitialCreate.cs",
@@ -1176,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 104,
               "Title": "GreetGrpc.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\DiscountGrpc\\obj\\Debug\\net8.0\\Protos\\GreetGrpc.cs",
@@ -1188,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 67,
               "Title": "DeleteBasketHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketHandler.cs",
@@ -1200,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 68,
               "Title": "DeleteBasketEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\basket\\DeleteBasket\\DeleteBasketEndpoint.cs",
@@ -1212,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 69,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Properties\\launchSettings.json",
@@ -1224,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 70,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Catalog.Api\\Properties\\launchSettings.json",
@@ -1236,7 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 71,
               "Title": "BasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\BasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\BasketRepository.cs",
@@ -1248,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 72,
               "Title": "BasketNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Exceptions\\BasketNotFoundException.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Exceptions\\BasketNotFoundException.cs",
@@ -1260,7 +1398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 73,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Data\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Data\\IBasketRepository.cs",
@@ -1272,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 74,
               "Title": "ShopCart.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Basket\\Basket.Api\\Models\\ShopCart.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Api\\Models\\ShopCart.cs",
@@ -1284,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 77,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductById\\GetProductByIdHandler.cs",
@@ -1296,7 +1434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 76,
               "Title": "DeleteProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
@@ -1308,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 75,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\DeleteProduct\\DeleteProductHandler.cs",
@@ -1320,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 78,
               "Title": "GetProductByIdEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductById\\GetProductByIdEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductById\\GetProductByIdEndPoint.cs",
@@ -1332,7 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 80,
               "Title": "UpdateProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\UpdateProduct\\UpdateProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\UpdateProduct\\UpdateProductEndPoint.cs",
@@ -1344,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 81,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -1356,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 79,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -1368,7 +1506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 82,
               "Title": "CreateProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\CreateProduct\\CreateProductEndPoint.cs",
@@ -1380,7 +1518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 83,
               "Title": "CatalogIntialData.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Data\\CatalogIntialData.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Data\\CatalogIntialData.cs",
@@ -1392,7 +1530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 84,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Dockerfile",
               "RelativeDocumentMoniker": "Catalog.Api\\Dockerfile",
@@ -1404,7 +1542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 85,
               "Title": "PagentationRequest.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Pagination\\PagentationRequest.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagentationRequest.cs",
@@ -1416,7 +1554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 86,
               "Title": "PagenatedResult.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Pagination\\PagenatedResult.cs",
@@ -1428,7 +1566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 87,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\GlobalUsing.cs",
@@ -1440,7 +1578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 88,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Catalog.Api\\appsettings.Development.json",
@@ -1452,7 +1590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 89,
               "Title": "GetProductByCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
@@ -1464,7 +1602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 90,
               "Title": "BadRequestException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\BadRequestException.cs",
@@ -1476,7 +1614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 92,
               "Title": "InternalServerException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\InternalServerException.cs",
@@ -1488,7 +1626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 91,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Exceptions\\ProductNotFoundException.cs",
@@ -1500,7 +1638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 93,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
@@ -1512,7 +1650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 95,
               "Title": "MergedDockerCompose17.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose17.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose17.cache",
@@ -1524,7 +1662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 94,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Models\\Product.cs",
@@ -1536,7 +1674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 96,
               "Title": "MergedDockerCompose16.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose16.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose16.cache",
@@ -1548,7 +1686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 97,
               "Title": "MergedDockerCompose34.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose34.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose34.cache",
@@ -1560,7 +1698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 98,
               "Title": "MergedDockerCompose33.cache",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\obj\\Docker\\MergedDockerCompose33.cache",
               "RelativeDocumentMoniker": "obj\\Docker\\MergedDockerCompose33.cache",
@@ -1572,7 +1710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 99,
               "Title": "GetProductByCategoryEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryEndPoint.cs",
               "RelativeDocumentMoniker": "Catalog.Api\\Products\\GetProductByCategory\\GetProductByCategoryEndPoint.cs",
@@ -1584,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 100,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -1596,7 +1734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 101,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -1608,7 +1746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 102,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -1620,7 +1758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 103,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
