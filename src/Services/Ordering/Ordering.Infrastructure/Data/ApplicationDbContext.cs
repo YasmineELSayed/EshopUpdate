@@ -1,10 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Ordering.Application.Data;
 using Ordering.Domain.Models;
 using System.Reflection;
 
 namespace Ordering.Infrastructure.Data;
-public class ApplicationDbContext : DbContext, IApplicationDbContext
+public  class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options) { }
@@ -17,6 +16,9 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     protected override void OnModelCreating(ModelBuilder builder)
     {
         builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+       // builder.Entity<Customer>().Property(c=>c.Name).IsRequired.HasMaxLength(100)
         base.OnModelCreating(builder);
     }
 }
+
