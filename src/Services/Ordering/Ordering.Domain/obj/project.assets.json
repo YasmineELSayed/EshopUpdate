@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "projectName": "Ordering.Domain",
-      "projectPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectPath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\obj\\",
+      "outputPath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

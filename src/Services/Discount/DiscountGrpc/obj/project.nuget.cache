@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "avpnMzLXcN0=",
+  "dgSpecHash": "+ugdQg3lCWA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+  "projectFilePath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a\\.nuget\\packages\\google.protobuf\\3.23.1\\google.protobuf.3.23.1.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\grpc.aspnetcore\\2.57.0\\grpc.aspnetcore.2.57.0.nupkg.sha512",

@@ -1,10 +1,12 @@
 ﻿using BuildingBlocks.CQRS;
+using Ordering.Application.Data;
 using Ordering.Application.Dtos;
+using Ordering.Application.Exceptions;
 using Ordering.Domain.Models;
 using Ordering.Domain.ValueObjects;
 
 namespace Ordering.Application.Orders.Commands.UpdateOrder;
-public class UpdateOrderHandler()
+public class UpdateOrderHandler(IApplicationDbContext dbContext)
     : ICommandHandler<UpdateOrderCommand, UpdateOrderResult>
 {
     public async Task<UpdateOrderResult> Handle(UpdateOrderCommand command, CancellationToken cancellationToken)
@@ -14,18 +16,18 @@ public class UpdateOrderHandler()
         //return result
 
         var orderId = OrderId.Of(command.Order.Id);
-      //  var order = await dbContext.Orders
-          //  .FindAsync([orderId], cancellationToken: cancellationToken);
+        var order = await dbContext.Orders
+            .FindAsync([orderId], cancellationToken: cancellationToken);
 
-      //  if (order is null)
-      //  {
-     //       throw new OrderNotFoundException(command.Order.Id);
-      //  }
+        if (order is null)
+        {
+            throw new OrderNotFoundException(command.Order.Id);
+        }
 
-    //    UpdateOrderWithNewValues(order, command.Order);
+        UpdateOrderWithNewValues(order, command.Order);
 
-       // dbContext.Orders.Update(order);
-       // await dbContext.SaveChangesAsync(cancellationToken);
+        dbContext.Orders.Update(order);
+        await dbContext.SaveChangesAsync(cancellationToken);
 
         return new UpdateOrderResult(true);
     }

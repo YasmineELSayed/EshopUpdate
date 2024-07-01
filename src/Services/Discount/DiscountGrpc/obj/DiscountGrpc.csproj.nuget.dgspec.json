@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj": {}
+    "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj": {
+    "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+        "projectUniqueName": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
         "projectName": "DiscountGrpc",
-        "projectPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
+        "projectPath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\DiscountGrpc.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\",
+        "outputPath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Discount\\DiscountGrpc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

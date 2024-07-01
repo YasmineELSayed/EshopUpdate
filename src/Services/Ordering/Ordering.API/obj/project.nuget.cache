@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYKBEKjqRhw=",
+  "dgSpecHash": "RKd5o/r1eD8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\a\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+  "projectFilePath": "C:\\Users\\a\\OneDrive - Index Infotech (India) Private Limited\\source\\repos\\EshopUpdate\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\a\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
